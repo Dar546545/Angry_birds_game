@@ -1,0 +1,4 @@
+Tato 'hra' je dlouhá cca 252 řádků není ještě dokončena, kód je strašně nepřehledný pokud se podiváte uvidíte samy.
+Anyway co můžete v této hře dělat mužete pomocí SPACE klávesnice střílet 'shells.png' střeli, mužete se zatím pohybovat doleva doprava
+a to je vše, jinak enemies jsou omezeni spawnují na pravé straně obrazovky naproti hráči a je to uplně nahodně + jsou tam ostrovy taky nahodně
+se spawnují a jěště k tomu jsou na nich enemies 
